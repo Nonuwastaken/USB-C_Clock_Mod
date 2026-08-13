@@ -14,7 +14,7 @@ The clock's gear-driven movement drew enough current that its battery needed rep
 
 ## Resources
 
-- Component List: [link]
+- Component List: https://docs.google.com/spreadsheets/d/1Idw_CZHILOz6lB3wfzvAo8nBtsdRedN5fT2zZiBPkTU/edit?usp=sharing
 
 ## How it works
 
